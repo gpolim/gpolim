@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Polim
+- 👋 Hi, I’m Guilherme Polim
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Data Engineering
 - 📫 How to reach me 
   - guilhermepolim@gmail.com
   - https://www.linkedin.com/in/guilherme-polim-85a775180/
